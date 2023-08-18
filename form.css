@@ -1,0 +1,16 @@
+
+
+.container {
+    
+    /* background-color:#baa466; */
+    
+    
+}
+.head{
+    text-align: center;
+    text-decoration: underline;
+}
+.bg-container{
+    background-color:#baa466;
+    height:100vh;
+}
